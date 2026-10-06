@@ -5022,6 +5022,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Bramvia](https://bramvia.net/mcp-server) `https://bramvia.net/mcp`
   [![Bramvia MCP connector](https://glama.ai/mcp/connectors/net.bramvia/bramvia/badges/score.svg)](https://glama.ai/mcp/connectors/net.bramvia/bramvia)
   🔓 - Business Central knowledge, NAV lifecycle dates, ERP migration estimates and compliance deadlines.
+- [Caly](https://trycaly.com) `https://mcp.trycaly.com/mcp`
+  [![Caly MCP connector](https://glama.ai/mcp/connectors/com.trycaly/caly/badges/score.svg)](https://glama.ai/mcp/connectors/com.trycaly/caly)
+  🔐 - Find open meeting times, book, reschedule and cancel meetings, and read event types, bookings and schedules.
 - [Carbon](https://www.carbondatasolutions.com/hire) `https://mcp.carbondatasolutions.com/mcp`
   [![Carbon MCP connector](https://glama.ai/mcp/connectors/io.github.danie-carbondatasolutions/carbon/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.danie-carbondatasolutions/carbon)
   🔐 - Hire data professionals from ChatGPT, Claude, or any MCP host. Post a role free.
